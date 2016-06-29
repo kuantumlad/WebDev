@@ -67,7 +67,7 @@
       <li>Advisor: Kyungseon Joo - email: kjoo@phys.uconn.edu</li>
       <li>Graduate Student: Brandon A. Clary - email:brandon.clary@uconn.edu</li>
       <li>Copyright © Brandon Clary</li>
-      <li><!-- hhmts start -->Last modified: Wed Jun 29 19:37:38 EDT 2016 <!-- hhmts end --></li>
+      <li><!-- hhmts start -->Last modified: Wed Jun 29 19:35:06 EDT 2016 <!-- hhmts end --></li>
     </ol>
 </div>
 
