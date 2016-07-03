@@ -1,5 +1,4 @@
 <?php
-<body>
  echo ' <div id="navigationContainer">    
     <a href="https://userweb.jlab.org/~bclary/WebDev/">Home</a>
     <a href="https://userweb.jlab.org/~bclary/WebDev/dvcsstudies/">DVCS Studies (EG1)</a>
