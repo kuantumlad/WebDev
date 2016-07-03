@@ -3,7 +3,7 @@
 <html>
 <body>
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="style/header.css">
 
 
 <h1>Welcome to my home page!</h1>
