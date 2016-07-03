@@ -14,8 +14,6 @@
 <?php include 'includes/header.php';?>
  
 
- 
-
   <!-- Main Content of Page 
   <div id="main">
     <p>WELCOME</p>
@@ -50,7 +48,7 @@
       <li>Advisor: Kyungseon Joo - email: kjoo@phys.uconn.edu</li>
       <li>Graduate Student: Brandon A. Clary - email:brandon.clary@uconn.edu</li>
       <li>Copyright © Brandon Clary</li>
-      <li><!-- hhmts start -->Last modified: Sun Jul  3 01:45:21 EDT 2016 <!-- hhmts end --></li>
+      <li><!-- hhmts start -->Last modified: Sun Jul  3 01:57:32 EDT 2016 <!-- hhmts end --></li>
     </ol>
 </div>
 
