@@ -1,15 +1,60 @@
 <!DOCTYPE html>
 
 <html>
-<body>
 
-<link rel="stylesheet" href="style/header.css">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style/style.css">
+   <script src="styles/style.js"> </script>
+
+  <title>Brandon's Home Page</title>
+</head>
 
 
-<h1>Welcome to my home page!</h1>
-<p>Some text.</p>
-<p>Some more text.</p>
-<?php include 'includes/header.php';?>
+<?php include 'includes/footer.php';?>
+ 
+
+ 
+
+  <!-- Main Content of Page 
+  <div id="main">
+    <p>WELCOME</p>
+  </div>-->
+
+
+  <h1 id="ResearchTopic"> Research Overview: </h1>
+  <p id="ResearchInterest">Thesis is comprised of two parts:</p>
+  <ul id="topics">
+    <li>The difference in the scattering cross sections for two
+  helicity states of a longitudinally polarized proton target for hard
+  exclusive photon productions will be extracted for the first
+  time. The cross section difference will be extracted in 4
+  dimensional kinematic bins covering a wide kinematic range.
+  Combined with other DVCS measurements, the generalized parton
+  distributions (GPDs), which will encode information on the
+  distribution of partons in the transverse plane and in the
+  longitudinal direction. will be accessed.</li> 
+    <li>A Ring Imaging Cherenkov (RICH) detector for the upgraded CLAS
+  spectrometer (CLAS12) will be developed. The CLAS12 RICH
+  detector is designed to provide the CLAS12 detector with the
+  capability to identify kaons in the 3-5 GeV momentum range with a
+  rejection power with respect to pions and protons about 1:500.</li>
+  </ul>
+
+  <h1 id="ResearchUpdates">Updates:</h1>
+  
+
+
+  <div id="footer">
+    <ol style="list-style-type:none">
+      <li>Advisor: Kyungseon Joo - email: kjoo@phys.uconn.edu</li>
+      <li>Graduate Student: Brandon A. Clary - email:brandon.clary@uconn.edu</li>
+      <li>Copyright © Brandon Clary</li>
+      <li><!-- hhmts start -->Last modified: Sun Jul  3 01:23:22 EDT 2016 <!-- hhmts end --></li>
+    </ol>
+</div>
+
 
 </body>
+
 </html>
