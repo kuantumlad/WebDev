@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="style/style.css">
+  <link rel="stylesheet" href="style/styles.css">
    <script src="styles/style.js"> </script>
 
   <title>Brandon's Home Page</title>
@@ -50,7 +50,7 @@
       <li>Advisor: Kyungseon Joo - email: kjoo@phys.uconn.edu</li>
       <li>Graduate Student: Brandon A. Clary - email:brandon.clary@uconn.edu</li>
       <li>Copyright © Brandon Clary</li>
-      <li><!-- hhmts start -->Last modified: Sun Jul  3 01:34:27 EDT 2016 <!-- hhmts end --></li>
+      <li><!-- hhmts start -->Last modified: Sun Jul  3 01:45:21 EDT 2016 <!-- hhmts end --></li>
     </ol>
 </div>
 
