@@ -14,8 +14,11 @@
 
 <body>
 
-<p> HELLO </p>
+
 
 </body>
+
+<?php include '../includes/footer.php';?>
+
 
 </html>
