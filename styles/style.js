@@ -4,10 +4,10 @@ imgArray[0] = new Image();
 imgArray[0].src = 'usa1.jpg';
 
 imgArray[1] = new Image();
-imgArray[1].src = 'shark3.jpg';
+imgArray[1].src = 'usa3.jpg';
 
 imgArray[2] = new Image();
-imgArray[2].src = 'shark2.jpg';
+imgArray[2].src = 'usa2.jpg';
 
 /*------------------------------------*/
 
