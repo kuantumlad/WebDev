@@ -42,8 +42,6 @@
   <h1 id="ResearchUpdates">Updates:</h1>
 
 
-<?php include 'img/images.php';?>
-  
 <?php include 'includes/footer.php';?>
 
 </body>
