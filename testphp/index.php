@@ -8,11 +8,6 @@
   <link rel="stylesheet" href="style/styles.css">
 <script src="style/style.js"> </script>
 
-<script>
-function myFunction() {
-    document.getElementById("ResearchUpdates").innerHTML = "Paragraph changed.";
-}
-</script>
   <title>Brandon's Home Page</title>
 </head>
 
@@ -49,7 +44,7 @@ function myFunction() {
 
   
   <div>
-      <img src="img/usa1.jpg" alt="" id="mainImg">
+      <img src="userweb/bclary/public_html/WebDev/testphp/img/usa1.jpg" alt="" id="mainImg">
       
       </div>
       
