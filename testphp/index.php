@@ -6,8 +6,13 @@
 <meta charset="utf-8">
   <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
   <link rel="stylesheet" href="style/styles.css">
-   <script src="style/style.js"> </script>
+<script src="style/style.js"> </script>
 
+<script>
+function myFunction() {
+    document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+</script>
   <title>Brandon's Home Page</title>
 </head>
 
@@ -52,7 +57,9 @@
           <a href="javascript:nextImage('mainImg')"><img src="img/nextright.jpg" alt=""></a>
   </div>
 
+<button type="button" onclick="myFunction()">Try it</button>
 
+  
 <?php include 'includes/footer.php';?>
 
 </body>
