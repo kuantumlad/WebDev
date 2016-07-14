@@ -6,7 +6,7 @@
 <meta charset="utf-8">
   <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
   <link rel="stylesheet" href="style/styles.css">
-<script src="style/style.js"> </script>
+<script type="text/javascript" src="style/style.js"> </script>
 
   <title>Brandon's Home Page</title>
 </head>
@@ -44,7 +44,7 @@
 
   
   <div>
-      <img src="userweb/bclary/public_html/WebDev/testphp/img/usa1.jpg" alt="" id="mainImg">
+      <img src="/userweb/bclary/public_html/WebDev/testphp/img/usa1.jpg" alt="" id="mainImg">
       
       </div>
       
