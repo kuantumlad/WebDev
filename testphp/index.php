@@ -3,7 +3,8 @@
 <html>
 
 <head>
-  <meta charset="utf-8">
+<meta charset="utf-8">
+  <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
   <link rel="stylesheet" href="style/styles.css">
    <script src="styles/style.js"> </script>
 
@@ -40,6 +41,16 @@
   </ul>
 
   <h1 id="ResearchUpdates">Updates:</h1>
+
+  
+  <div>
+      <img src="usa1.jpg" alt="" id="mainImg">
+      
+      </div>
+      
+      <div id="Imglist">
+          <a href="javascript:nextImage('mainImg')"><img src="img/nextright.jpg" alt=""></a>
+  </div>
 
 
 <?php include 'includes/footer.php';?>
