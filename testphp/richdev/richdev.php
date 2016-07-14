@@ -20,12 +20,15 @@
 
 <?php
   $f = fopen("testdoc.txt","r");
-  while(! feof($f)){
-    echo fgets($file). "<br />";
+  while(! feof($f) ){
+  echo "<tr>";
+    echo "<td>" . fgets($f) . "</td>";
+    echo "</tr>";
   }
   fclose($f);
-
 ?>
+
+  </table>
 
 </body>
 
