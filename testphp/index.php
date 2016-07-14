@@ -44,7 +44,7 @@
 
   
   <div>
-      <img src="usa1.jpg" alt="" id="mainImg">
+      <img src="/userweb/bclary/public_html/WebDev/testphp/img/usa1.jpg" alt="" id="mainImg">
       
       </div>
       
