@@ -4,7 +4,8 @@
 
 <head>
 <meta charset="utf-8">
-  <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+ <!-- <script type="text/javascript"
+src="http://code.jquery.com/jquery-latest.min.js"></script> -->
   <link rel="stylesheet" href="style/styles.css">
 <script type="text/javascript" src="style/style.js"> </script>
 
@@ -44,15 +45,13 @@
 
   
   <div>
-      <img src="/userweb/bclary/public_html/WebDev/testphp/img/usa1.jpg" alt="" id="mainImg">
+      <img src="img/usa1.jpg" alt="" id="mainImg">
       
       </div>
       
       <div id="Imglist">
           <a href="javascript:nextImage('mainImg')"><img src="img/nextright.jpg" alt=""></a>
   </div>
-
-<button type="button" onclick="myFunction()">Try it</button>
 
   
 <?php include 'includes/footer.php';?>
