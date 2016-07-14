@@ -10,7 +10,7 @@
 
 <script>
 function myFunction() {
-    document.getElementById("demo").innerHTML = "Paragraph changed.";
+    document.getElementById("ResearchUpdates").innerHTML = "Paragraph changed.";
 }
 </script>
   <title>Brandon's Home Page</title>
