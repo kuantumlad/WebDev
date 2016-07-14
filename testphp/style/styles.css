@@ -184,3 +184,7 @@ button{
     top: 150;
     left: 500;
 }
+
+table, th, td {
+    border: 1px solid black;
+}
