@@ -6,7 +6,7 @@
 <meta charset="utf-8">
   <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
   <link rel="stylesheet" href="style/styles.css">
-   <script src="styles/style.js"> </script>
+   <script src="style/style.js"> </script>
 
   <title>Brandon's Home Page</title>
 </head>
