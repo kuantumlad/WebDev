@@ -14,21 +14,26 @@
 
 <body>
 
-<h1> Simulation parameters </h1>
+<h1 id="TSD"> Trigger System Development </h1>
+<p> Trigger developement is currently underway </p>
+
+<h1 id ="TSP"> Trigger Simulation Parameters </h1>
+<p> Below are the parameters used to run the simulation for the
+current trigger analysis.
+</p>
 
 <table>
-
 <?php
   $f = fopen("testdoc.txt","r");
-  while(! feof($f) ){
-  echo "<tr>";
+  while( ! feof($f)  )
+  {
+    echo "<tr>";
     echo "<td>" . fgets($f) . "</td>";
     echo "</tr>";
   }
   fclose($f);
 ?>
-
-  </table>
+</table>
 
 </body>
 
