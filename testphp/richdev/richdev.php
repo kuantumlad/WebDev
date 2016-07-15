@@ -24,7 +24,7 @@ current trigger analysis.
 
 <table>
 <?php
-  $f = fopen("testdoc.txt","r");
+  $f = fopen("dvcs.txt","r");
   while( ! feof($f)  )
   {
     echo "<tr>";

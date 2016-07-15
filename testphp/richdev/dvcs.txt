@@ -1,0 +1,279 @@
+ dvcspi0gen input values:
+ generators:       DVCS-> T     pi-0-> F
+ NEVENTS:                  5000000
+ BEAM ENERGY  :            11.0000000    
+ BH status:3-All, 1-only BH  :             3
+ w^2   min    :            4.00000000    
+ y   min/max:            5.00000007E-02  0.899999976    
+ Eprime thmin/thmax:            0.00000000       1.00000005E-03
+ -Delta  tmin/tmax:            0.00000000       1.00000000    
+ Q2  q2min/q2max:            1.00000000       10.0000000    
+ x  xmin/xmax:           0.100000001      0.649999976    
+ TARGET:              proton    
+ TARGET z-position:      0.00000000    
+ TARGET 1/2 width :      0.00000000    
+ Tpol (0-U,1-L,2-T):              0
+ GPD model A,B,C,D:              3
+ GPD sinphi scale:      1.00000000    
+ RADGEN ON        :    F
+ y_col cut        :      4.99999989E-03
+ acceptance       :    F F F
+ write form      :              0
+ write mod       :              0
+ write file_name  :   dvcsgen
+ __________________________________
+ verbosity level           0
+ CALL getSCALE-->           1  0.649999976      0.100000001      -0.00000000      -1.00000000    
+ Maximum found at   5267.4322557596897      x-sec(pb) =    369.82549484008365        4.71205021E-06
+ Maximum found at   5267.4322557596897      x-sec(pb) =    366.40295181791527        4.71205021E-06
+dvcsgen1.dat
+dvcsgen2.dat
+dvcsgen3.dat
+dvcsgen4.dat
+dvcsgen5.dat
+dvcsgen6.dat
+dvcsgen7.dat
+dvcsgen8.dat
+dvcsgen9.dat
+dvcsgen10.dat
+dvcsgen11.dat
+dvcsgen12.dat
+dvcsgen13.dat
+dvcsgen14.dat
+dvcsgen15.dat
+dvcsgen16.dat
+dvcsgen17.dat
+dvcsgen18.dat
+dvcsgen19.dat
+dvcsgen20.dat
+dvcsgen21.dat
+dvcsgen22.dat
+dvcsgen23.dat
+dvcsgen24.dat
+dvcsgen25.dat
+dvcsgen26.dat
+dvcsgen27.dat
+dvcsgen28.dat
+dvcsgen29.dat
+dvcsgen30.dat
+dvcsgen31.dat
+dvcsgen32.dat
+dvcsgen33.dat
+dvcsgen34.dat
+dvcsgen35.dat
+dvcsgen36.dat
+dvcsgen37.dat
+dvcsgen38.dat
+dvcsgen39.dat
+dvcsgen40.dat
+dvcsgen41.dat
+dvcsgen42.dat
+dvcsgen43.dat
+dvcsgen44.dat
+dvcsgen45.dat
+dvcsgen46.dat
+dvcsgen47.dat
+dvcsgen48.dat
+dvcsgen49.dat
+dvcsgen50.dat
+dvcsgen51.dat
+dvcsgen52.dat
+dvcsgen53.dat
+dvcsgen54.dat
+dvcsgen55.dat
+dvcsgen56.dat
+dvcsgen57.dat
+dvcsgen58.dat
+dvcsgen59.dat
+dvcsgen60.dat
+dvcsgen61.dat
+dvcsgen62.dat
+dvcsgen63.dat
+dvcsgen64.dat
+dvcsgen65.dat
+dvcsgen66.dat
+dvcsgen67.dat
+dvcsgen68.dat
+dvcsgen69.dat
+dvcsgen70.dat
+dvcsgen71.dat
+dvcsgen72.dat
+dvcsgen73.dat
+dvcsgen74.dat
+dvcsgen75.dat
+dvcsgen76.dat
+dvcsgen77.dat
+dvcsgen78.dat
+dvcsgen79.dat
+dvcsgen80.dat
+dvcsgen81.dat
+dvcsgen82.dat
+dvcsgen83.dat
+dvcsgen84.dat
+dvcsgen85.dat
+dvcsgen86.dat
+dvcsgen87.dat
+dvcsgen88.dat
+dvcsgen89.dat
+dvcsgen90.dat
+dvcsgen91.dat
+dvcsgen92.dat
+dvcsgen93.dat
+dvcsgen94.dat
+dvcsgen95.dat
+dvcsgen96.dat
+dvcsgen97.dat
+dvcsgen98.dat
+dvcsgen99.dat
+dvcsgen100.dat
+dvcsgen101.dat
+dvcsgen102.dat
+dvcsgen103.dat
+dvcsgen104.dat
+dvcsgen105.dat
+dvcsgen106.dat
+dvcsgen107.dat
+dvcsgen108.dat
+dvcsgen109.dat
+dvcsgen110.dat
+dvcsgen111.dat
+dvcsgen112.dat
+dvcsgen113.dat
+dvcsgen114.dat
+dvcsgen115.dat
+dvcsgen116.dat
+dvcsgen117.dat
+dvcsgen118.dat
+dvcsgen119.dat
+dvcsgen120.dat
+dvcsgen121.dat
+dvcsgen122.dat
+dvcsgen123.dat
+dvcsgen124.dat
+dvcsgen125.dat
+dvcsgen126.dat
+dvcsgen127.dat
+dvcsgen128.dat
+dvcsgen129.dat
+dvcsgen130.dat
+dvcsgen131.dat
+dvcsgen132.dat
+dvcsgen133.dat
+dvcsgen134.dat
+dvcsgen135.dat
+dvcsgen136.dat
+dvcsgen137.dat
+dvcsgen138.dat
+dvcsgen139.dat
+dvcsgen140.dat
+dvcsgen141.dat
+dvcsgen142.dat
+dvcsgen143.dat
+dvcsgen144.dat
+dvcsgen145.dat
+dvcsgen146.dat
+dvcsgen147.dat
+dvcsgen148.dat
+dvcsgen149.dat
+dvcsgen150.dat
+dvcsgen151.dat
+dvcsgen152.dat
+dvcsgen153.dat
+dvcsgen154.dat
+dvcsgen155.dat
+dvcsgen156.dat
+dvcsgen157.dat
+dvcsgen158.dat
+dvcsgen159.dat
+dvcsgen160.dat
+dvcsgen161.dat
+dvcsgen162.dat
+dvcsgen163.dat
+dvcsgen164.dat
+dvcsgen165.dat
+dvcsgen166.dat
+dvcsgen167.dat
+dvcsgen168.dat
+dvcsgen169.dat
+dvcsgen170.dat
+dvcsgen171.dat
+dvcsgen172.dat
+dvcsgen173.dat
+dvcsgen174.dat
+dvcsgen175.dat
+dvcsgen176.dat
+dvcsgen177.dat
+dvcsgen178.dat
+dvcsgen179.dat
+dvcsgen180.dat
+dvcsgen181.dat
+dvcsgen182.dat
+dvcsgen183.dat
+dvcsgen184.dat
+dvcsgen185.dat
+dvcsgen186.dat
+dvcsgen187.dat
+dvcsgen188.dat
+dvcsgen189.dat
+dvcsgen190.dat
+dvcsgen191.dat
+dvcsgen192.dat
+dvcsgen193.dat
+dvcsgen194.dat
+dvcsgen195.dat
+dvcsgen196.dat
+dvcsgen197.dat
+dvcsgen198.dat
+dvcsgen199.dat
+dvcsgen200.dat
+dvcsgen201.dat
+dvcsgen202.dat
+dvcsgen203.dat
+dvcsgen204.dat
+dvcsgen205.dat
+dvcsgen206.dat
+dvcsgen207.dat
+dvcsgen208.dat
+dvcsgen209.dat
+dvcsgen210.dat
+dvcsgen211.dat
+dvcsgen212.dat
+dvcsgen213.dat
+dvcsgen214.dat
+dvcsgen215.dat
+dvcsgen216.dat
+dvcsgen217.dat
+dvcsgen218.dat
+dvcsgen219.dat
+dvcsgen220.dat
+dvcsgen221.dat
+dvcsgen222.dat
+dvcsgen223.dat
+dvcsgen224.dat
+dvcsgen225.dat
+dvcsgen226.dat
+dvcsgen227.dat
+dvcsgen228.dat
+dvcsgen229.dat
+dvcsgen230.dat
+dvcsgen231.dat
+dvcsgen232.dat
+dvcsgen233.dat
+dvcsgen234.dat
+dvcsgen235.dat
+dvcsgen236.dat
+dvcsgen237.dat
+dvcsgen238.dat
+dvcsgen239.dat
+dvcsgen240.dat
+dvcsgen241.dat
+dvcsgen242.dat
+dvcsgen243.dat
+dvcsgen244.dat
+dvcsgen245.dat
+dvcsgen246.dat
+dvcsgen247.dat
+dvcsgen248.dat
+dvcsgen249.dat
+dvcsgen250.dat
+ Total      5000000  in pb    5267.4322557596897     
