@@ -17,12 +17,12 @@
 <h1 id="TSD"> Trigger System Development </h1>
 <p id="TSDp"> Trigger developement is currently underway </p>
 
-<h1 id ="TSP"> Trigger Simulation Parameters </h1>
+<h1 id="TSP"> Trigger Simulation Parameters </h1>
 <p id="TSPp"> Below are the parameters used to run the simulation for the
 current trigger analysis.
 </p>
 
-<table>
+<table id="Table">
 <?php
   $f = fopen("dvcs.txt","r");
   while( ! feof($f)  )
@@ -35,8 +35,8 @@ current trigger analysis.
 ?>
 </table>
 
-</h1 id="MC_FILEIO"> Analyzing MC .dat.evio Files </h1>
-</p id="MC_FILEIOp"> To begin understanding CLAS12 analysis of evio files visit the
+<h1 id="MC_FILEIO"> Analyzing MC .dat.evio Files </h1>
+<p id="MC_FILEIOp"> To begin understanding CLAS12 analysis of evio files visit the
 site SITE NAME. For the working version of gemc the evio files do not
 contain simulated raw DAQ output. Thus reading the evio at this state
 will not reproduce the branches that correspond to the crate numbers
