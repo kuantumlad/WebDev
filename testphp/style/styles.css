@@ -197,7 +197,7 @@ table, tr, td {
 
 #TSDp{
     position: absolute;
-    top: 175px;
+    top: 150px;
     left: 75px;
 }
 
@@ -209,25 +209,25 @@ table, tr, td {
 
 #TSPp{
     position: absolute;
-    top: 275px;
+    top: 250px;
     left: 75px;
 }
 
 #Table{
     position: absolute;
-    top: 300px;
+    top: 275px;
     left: 50px;
 }
 
 #MC_FILEIO{
     position: absolute;
-    top: 500px;
-    left: 50ps;
+    top: 1100px;
+    left: 50px;
 }
 
 #MC_FILEIOp{
  position: absolute;
-    top: 575px;
-    left: 75ps;
+    top: 1175px;
+    left: 75px;
 }
 
