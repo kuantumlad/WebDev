@@ -46,7 +46,7 @@ src="http://code.jquery.com/jquery-latest.min.js"></script> -->
 
   
   <div>
-      <img src="img/ec_edepcp" alt="" id="mainImg">
+      <img src="img/ec_edepcp.jpg" alt="" id="mainImg">
       
       </div>
       
