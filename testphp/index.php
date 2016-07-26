@@ -46,13 +46,12 @@ src="http://code.jquery.com/jquery-latest.min.js"></script> -->
 
   
   <div>
-      <img src="img/ec_edepcp.png" alt="" id="mainImg">
+      <img src="img/ec_edepcp" alt="" id="mainImg">
       
       </div>
       
       <div id="Imglist">
-          <a href="javascript:nextImage('mainImg')"><img
-          src="img/nextright.jpg" alt="" id="nextbutton"></a>
+          <a href="javascript:nextImage('mainImg')"><img src="img/nextright.jpg" alt="" id="nextbutton"></a>
   </div>
 
   
