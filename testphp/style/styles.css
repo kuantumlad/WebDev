@@ -203,13 +203,13 @@ table, tr, td {
 
 #TSP{
     position: absolute;
-    top: 200px;
+    top: 175px;
     left: 50px;
 }
 
 #TSPp{
     position: absolute;
-    top: 250px;
+    top: 225px;
     left: 75px;
 }
 
@@ -221,13 +221,13 @@ table, tr, td {
 
 #MC_FILEIO{
     position: absolute;
-    top: 1100px;
+    top: 900px;
     left: 50px;
 }
 
 #MC_FILEIOp{
  position: absolute;
-    top: 1175px;
+    top: 975px;
     left: 75px;
 }
 
