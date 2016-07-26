@@ -6,7 +6,8 @@
 <meta charset="utf-8">
  <!-- <script type="text/javascript"
 src="http://code.jquery.com/jquery-latest.min.js"></script> -->
-  <link rel="stylesheet" href="style/styles.css">
+<link rel="stylesheet" href="style/styles.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.css" />
 <script type="text/javascript" src="style/style.js"> </script>
 
   <title>Brandon's Home Page</title>

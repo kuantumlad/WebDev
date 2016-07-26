@@ -234,3 +234,8 @@ table, tr, td {
     padding-bottom: 100px;
 }
 
+a.fancybox img{
+    border: none;
+    box-shadow: 0 1px 7px rgba(0,0,0,0.6);
+}
+
