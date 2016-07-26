@@ -1,13 +1,13 @@
 var imgArray = new Array();
 
 imgArray[0] = new Image();
-imgArray[0].src = 'img/simplelogo1.jpg';
+imgArray[0].src = 'img/ec_edepcp.jpg';
 
 imgArray[1] = new Image();
-imgArray[1].src = 'img/protoncut.png';
+imgArray[1].src = 'img/protoncut.jpg';
 
 imgArray[2] = new Image();
-imgArray[2].src = 'img/missing4vmntmzoom.png';
+imgArray[2].src = 'img/missing4vmntmzoom.jpg';
 
 /*------------------------------------*/
 
