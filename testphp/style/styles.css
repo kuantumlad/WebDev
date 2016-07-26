@@ -28,7 +28,7 @@ div{
 }
 
 #footer{
-    position: absolute;
+    position: fixed;
     background-color: rgba(1, 1, 1, 0.8);
     color:white;
     clear:both;
