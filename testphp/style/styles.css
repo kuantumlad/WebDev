@@ -41,19 +41,19 @@ div{
 }
 
 .upload a.button{
-background: rgba(1,1,1,0.8);
-border-radius: 5px;
-display: block;
-font-size: 14px;
-margin:200px auto;
-padding: 10px;
-width: 50px;
-color:white;
-text-decoration:none;
-cursor:pointer;
-position: fixed;
-left: 850px;
-right: 50;
+    background: rgba(1,1,1,0.8);
+    border-radius: 5px;
+    display: block;
+    font-size: 14px;
+    margin:200px auto;
+    padding: 10px;
+    width: 50px;
+    color:white;
+    text-decoration:none;
+    cursor:pointer;
+    position: fixed;
+    left: 850px;
+    right: 50;
 }
 
 .banner img.bannerImg {
@@ -82,29 +82,30 @@ img{
 }
 
 #navigationContainer{
-position: fixed;
-top: 0;
-width: 100%;
-color: black;
-height: 30px;
-text-align: center;
-padding-top: 15px;
-background: #111 url('../img/simplelogo1.jpg') no-repeat;
-background-color: rgba(1, 1, 1, 0.8);
-color: rgba(1, 1, 1, 0.8);
-list-style-image: url('testjlab.png');
+    position: fixed;
+    top: 0;
+    width: 100%;
+    color: black;
+    height: 30px;
+    text-align: center;
+    padding-top: 15px;
+    background: #111 url('../img/simplelogo1.jpg') no-repeat;
+    background-color: rgba(1, 1, 1, 0.8);
+    color: rgba(1, 1, 1, 0.8);
+    list-style-image: url('testjlab.png');
 }
 
 #navigationContainer a {
-font-size: 14px;
-padding-left: 15px;
-padding-right: 15px;
-color: white;
-text-decoration: none;
+    position: fixed;
+    font-size: 14px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+    text-decoration: none;
 }
 
 #navigationContainer a:hover {
-color: grey;
+    color: grey;
 } 
 
 
