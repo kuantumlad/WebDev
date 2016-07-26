@@ -104,6 +104,7 @@ img{
 }
 
 #navigationContainer a:hover {
+    position: fixed;
     color: grey;
 } 
 
