@@ -35,7 +35,7 @@ div{
     text-align:center;
     padding:1px;
     bottom: 0;
-    margin: auto -80px;
+    margin-bottom: auto -80px;
     width: 100%;
     font-size: 12px;
 }
