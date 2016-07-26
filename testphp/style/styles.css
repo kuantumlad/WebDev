@@ -229,6 +229,7 @@ table, tr, td {
  position: absolute;
     top: 1125px;
     left: 75px;
+    right: 100px;
     margin-bottom: 150px;
 }
 
