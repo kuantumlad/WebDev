@@ -1,13 +1,13 @@
 var imgArray = new Array();
 
 imgArray[0] = new Image();
-imgArray[0].src = 'img/usa1.jpg';
+imgArray[0].src = 'img/ecgausfit.png';
 
 imgArray[1] = new Image();
-imgArray[1].src = 'img/usa3.jpg';
+imgArray[1].src = 'img/protoncut.png';
 
 imgArray[2] = new Image();
-imgArray[2].src = 'img/usa2.jpg';
+imgArray[2].src = 'img/missing4vmntmzoom.png';
 
 /*------------------------------------*/
 
@@ -29,3 +29,5 @@ function nextImage(element)
         }
     }
 }
+
+
