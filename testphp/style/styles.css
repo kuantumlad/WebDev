@@ -195,8 +195,33 @@ table, tr, td {
     left: 50px;
 }
 
+#TSDp{
+    position: absolute;
+    top: 175px;
+    left: 75px;
+}
+
 #TSP{
     position: absolute;
-    top: 100px;
-    left: 200px;
+    top: 200px;
+    left: 50px;
 }
+
+#TSDp{
+    position: absolute;
+    top: 275px;
+    left: 75px;
+}
+
+#MC_FILEIO{
+    position: absolute;
+    top: 500px;
+    left: 50ps;
+}
+
+#MC_FILEIOp{
+ position: absolute;
+    top: 575px;
+    left: 75ps;
+}
+
