@@ -51,7 +51,8 @@ src="http://code.jquery.com/jquery-latest.min.js"></script> -->
       </div>
       
       <div id="Imglist">
-          <a href="javascript:nextImage('mainImg')"><img src="img/nextright.jpg" alt=""></a>
+          <a href="javascript:nextImage('mainImg')"><img
+          src="img/nextright.jpg" alt="" id="nextbutton"></a>
   </div>
 
   
