@@ -82,17 +82,17 @@ img{
 }
 
 #navigationContainer{
-position:fixed;
+position: fixed;
 top: 0;
-width:100%;
-color:black;
-height:30px;
-text-align:center;
-padding-top:15px;
+width: 100%;
+color: black;
+height: 30px;
+text-align: center;
+padding-top: 15px;
 background: #111 url('../img/simplelogo1.jpg') no-repeat;
 background-color: rgba(1, 1, 1, 0.8);
 color: rgba(1, 1, 1, 0.8);
-list-style-image:url('testjlab.png');
+list-style-image: url('testjlab.png');
 }
 
 #navigationContainer a {
