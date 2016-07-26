@@ -1,7 +1,7 @@
 var imgArray = new Array();
 
 imgArray[0] = new Image();
-imgArray[0].src = 'img/ecgausfit.png';
+imgArray[0].src = 'img/simplelogo1.jpg';
 
 imgArray[1] = new Image();
 imgArray[1].src = 'img/protoncut.png';
