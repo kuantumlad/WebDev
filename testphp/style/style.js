@@ -19,7 +19,7 @@ function nextImage(element)
     {
         if(imgArray[i].src == img.src)
         {
-            alert("<3 AMERICA");
+           /* alert("<3 AMERICA"); */
             if(i == imgArray.length-1 ){
                 document.getElementById(element).src = imgArray[0].src;
                 break;
