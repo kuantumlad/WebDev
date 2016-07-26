@@ -1,0 +1,11 @@
+#TSD{
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+
+#TSP{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}

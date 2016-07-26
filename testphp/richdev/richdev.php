@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="../style/styles.css">
+  <link rel="stylesheet" href="../style/richstyles.css">
    <script src="styles/style.js"> </script>
 
   <title>DVCS EG1</title>
@@ -15,10 +15,10 @@
 <body>
 
 <h1 id="TSD"> Trigger System Development </h1>
-<p> Trigger developement is currently underway </p>
+<p id="TSDp"> Trigger developement is currently underway </p>
 
 <h1 id ="TSP"> Trigger Simulation Parameters </h1>
-<p> Below are the parameters used to run the simulation for the
+<p id="TSPp"> Below are the parameters used to run the simulation for the
 current trigger analysis.
 </p>
 
@@ -35,8 +35,8 @@ current trigger analysis.
 ?>
 </table>
 
-</h1> Analyzing MC .dat.evio Files </h1>
-</p> To begin understanding CLAS12 analysis of evio files visit the
+</h1 id="MC_FILEIO"> Analyzing MC .dat.evio Files </h1>
+</p id="MC_FILEIOp"> To begin understanding CLAS12 analysis of evio files visit the
 site SITE NAME. For the working version of gemc the evio files do not
 contain simulated raw DAQ output. Thus reading the evio at this state
 will not reproduce the branches that correspond to the crate numbers
