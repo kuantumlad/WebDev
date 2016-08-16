@@ -16,7 +16,7 @@
 
   <?php 
 
-     $dir = '/userweb/bclary/public_html/WebDev/testphp/img';
+     $dir = '/userweb/bclary/public_html/WebDev/testphp/img/';
      $file_display = array( 'jpeg', 'jpg', 'png', 'gif' );
 
      if( file_exists($dir) == false ){
