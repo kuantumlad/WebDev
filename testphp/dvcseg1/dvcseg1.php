@@ -20,7 +20,7 @@
      $file_display = array( 'jpeg', 'jpg', 'png', 'gif' );
 
      if( file_exists($dir) == false ){
-     echo 'Directory not found';
+     echo 'Directory''. $dir ' 'not found';
      } else {
      $dir_contents = scandir($dir);
 
