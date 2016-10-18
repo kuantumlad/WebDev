@@ -238,3 +238,27 @@ a.fancybox img{
     border: none;
     box-shadow: 0 1px 7px rgba(0,0,0,0.6);
 }
+
+#CS{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+#CSp{
+    position: absolute;
+    top: 100px;
+    left: 75px;
+}
+
+#CI{
+    position: absolute;
+    top: 125px;
+    left: 50px;
+}
+
+#CIp{
+    position: absolute;
+    top: 175px;
+    left: 75px;
+}
